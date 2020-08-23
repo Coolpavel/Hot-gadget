@@ -1,0 +1,36 @@
+.container{
+ margin-bottom: 100px;
+}
+.black-bg{
+    background-color:#FCEAE8;
+    border-radius:10px;
+}
+.carousel-item{
+    padding:20px 40px;
+}
+.buy-now-button{
+    background-color:#000000;
+    color:#fff;
+    margin-top: 10px;
+    padding:12px 25px;
+    border:none;
+    border-radius:7px;
+}
+.card{
+    margin-top: 10px;
+    padding:50px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border-top: none;
+}
+#subscribe{
+    text-decoration:underline;
+    display:inline-block;
+}
+.categories{
+    margin:50px;
+    padding: 12px 20px;
+}
